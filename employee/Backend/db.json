@@ -1,0 +1,67 @@
+{
+  "employees": [
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "contact": "9874375353",
+      "department": "IT",
+      "designation": "HR",
+      "salary": "72368",
+      "id": "2iXqBi23OrU"
+    },
+    {
+      "name": "Mehak",
+      "email": "mehak@gmail.com",
+      "contact": "0834262",
+      "department": "sidfkuh",
+      "designation": "dskb",
+      "salary": "08236",
+      "id": "5sxP5MuoyZk"
+    },
+    {
+      "name": "lasn",
+      "email": "admin@brightfuture.edu",
+      "contact": "92837468",
+      "department": "sdkhf",
+      "designation": "skfh",
+      "salary": "09862",
+      "id": "3ydmkR39F3I"
+    },
+    {
+      "name": "this is new name",
+      "email": "this id new",
+      "contact": "11111111111",
+      "department": "parttime",
+      "designation": "ghhhh",
+      "salary": "7777",
+      "id": "ebwIe2-ECTY"
+    },
+    {
+      "name": "hhhddd",
+      "email": "ddddd",
+      "contact": "ddd",
+      "department": "dd",
+      "designation": "ddd",
+      "salary": "0ddd",
+      "id": "vf2J7OD3cb8"
+    },
+    {
+      "name": "qq",
+      "email": "qq",
+      "contact": "9",
+      "department": "ff",
+      "designation": "ff",
+      "salary": "-89",
+      "id": "j1bn9PmtgLw"
+    },
+    {
+      "name": "f",
+      "email": "f",
+      "contact": "ff",
+      "department": "f",
+      "designation": "ff",
+      "salary": "0f",
+      "id": "YiyEOHpSC3g"
+    }
+  ]
+}
