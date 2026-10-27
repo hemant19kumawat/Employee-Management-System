@@ -1,17 +1,14 @@
 const express = require("express");
-const app = express();
-
 const connectDB = require("./config/database");
-
 const employeeRouter = require("./routes/employeeRoutes");
 const userRouter = require("./routes/userRoutes");
 const dashboardRoutes = require("./routes/dashboardRoutes");
-
 const cors = require("cors");
 const cookieParser = require("cookie-parser");
 
 require("dotenv").config();
 
+const app = express();
 
 // Connect MongoDB
 connectDB();
